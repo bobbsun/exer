@@ -1,5 +1,2 @@
 # exer
-
-hello!!!
-
-repo was chaged online
+we resolve conflict
